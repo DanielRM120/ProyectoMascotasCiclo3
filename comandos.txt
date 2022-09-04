@@ -29,4 +29,4 @@ dotnet add reference ..\MascotaFeliz.App.Dominio\
 dotnet ef migrations add Inicial --startup-project ..\MascotaFeliz.App.Consola\ 
 dotnet ef database update Inicial --startup-project ..\MascotaFeliz.App.Consola\
 ---
-
+Prueba de pull y merge

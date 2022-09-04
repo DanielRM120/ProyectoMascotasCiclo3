@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "PyWpc5iOeszwwatodszdlkFdn2e9wtfpzf2cw/b62MYRLaXdegsiQqYQL3qS8l7mpP/oIdFf1UpET8/EyYDJIQ==",
+  "success": true,
+  "projectFilePath": "E:\\Developments\\ciclo3\\MascotaFeliz\\MascotaFeliz.App\\MascotaFeliz.App.Servicios\\MascotaFeliz.App.Servicios.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danieltm1987\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\danieltm1987\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\danieltm1987\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\danieltm1987\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\danieltm1987\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\danieltm1987\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,31 @@
+https://blog.visual-paradigm.com/es/what-are-the-six-types-of-relationships-in-uml-class-diagrams/
+
+-------------------------------------------
+dotnet new sln -o MascotaFeliz.App
+dotnet new classlib -o MascotaFeliz.App.Persistencia
+dotnet new classlib -o MascotaFeliz.App.Dominio
+dotnet new webapi -o MascotaFeliz.App.Servicios
+dotnet new console -o MascotaFeliz.App.Consola
+
+--Globales
+dotnet tool install --global dotnet-ef
+dotnet tool update --global dotnet-ef
+
+--Proyecto
+dotnet add package Microsoft.EntityFrameworkCore --version 5.0.0
+dotnet add package Microsoft.EntityFrameworkCore.Tools --version 5.0.0
+dotnet add package Microsoft.EntityFrameworkCore.Design --version 5.0.0
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer --version 5.0.0
+
+--App.Persistencia
+dotnet add reference ..\MascotaFeliz.App.Dominio\
+
+--App.Consola
+dotnet add package Microsoft.EntityFrameworkCore.Design --version 5.0.0
+dotnet add reference ..\MascotaFeliz.App.Persistencia\
+dotnet add reference ..\MascotaFeliz.App.Dominio\
+
+--App.Persistencia
+dotnet ef migrations add Inicial --startup-project ..\MascotaFeliz.App.Consola\ 
+dotnet ef database update Inicial --startup-project ..\MascotaFeliz.App.Consola\ 
+

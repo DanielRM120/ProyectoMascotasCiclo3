@@ -93,7 +93,8 @@ namespace MascotaFeliz.App.Persistencia
         Vacuna GetVacuna (int IdVacuna);
         
         
-   }  
+   }
+   
        
      public interface IRepositorioVeterinario   
    {

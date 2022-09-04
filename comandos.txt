@@ -27,5 +27,6 @@ dotnet add reference ..\MascotaFeliz.App.Dominio\
 
 --App.Persistencia
 dotnet ef migrations add Inicial --startup-project ..\MascotaFeliz.App.Consola\ 
-dotnet ef database update Inicial --startup-project ..\MascotaFeliz.App.Consola\ 
+dotnet ef database update Inicial --startup-project ..\MascotaFeliz.App.Consola\
+---
 

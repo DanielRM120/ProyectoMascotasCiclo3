@@ -6040,42 +6040,35 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\danieltm1987\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Daniel\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Developments\\ciclo3\\MascotaFeliz\\MascotaFeliz.App\\MascotaFeliz.App.Consola\\MascotaFeliz.App.Consola.csproj",
+      "projectUniqueName": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Consola\\MascotaFeliz.App.Consola.csproj",
       "projectName": "MascotaFeliz.App.Consola",
-      "projectPath": "E:\\Developments\\ciclo3\\MascotaFeliz\\MascotaFeliz.App\\MascotaFeliz.App.Consola\\MascotaFeliz.App.Consola.csproj",
-      "packagesPath": "C:\\Users\\danieltm1987\\.nuget\\packages\\",
-      "outputPath": "E:\\Developments\\ciclo3\\MascotaFeliz\\MascotaFeliz.App\\MascotaFeliz.App.Consola\\obj\\",
+      "projectPath": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Consola\\MascotaFeliz.App.Consola.csproj",
+      "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
+      "outputPath": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Consola\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\danieltm1987\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\Developments\\ciclo3\\MascotaFeliz\\MascotaFeliz.App\\MascotaFeliz.App.Dominio\\MascotaFeliz.App.Dominio.csproj": {
-              "projectPath": "E:\\Developments\\ciclo3\\MascotaFeliz\\MascotaFeliz.App\\MascotaFeliz.App.Dominio\\MascotaFeliz.App.Dominio.csproj"
+            "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Dominio\\MascotaFeliz.App.Dominio.csproj": {
+              "projectPath": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Dominio\\MascotaFeliz.App.Dominio.csproj"
             },
-            "E:\\Developments\\ciclo3\\MascotaFeliz\\MascotaFeliz.App\\MascotaFeliz.App.Persistencia\\MascotaFeliz.App.Persistencia.csproj": {
-              "projectPath": "E:\\Developments\\ciclo3\\MascotaFeliz\\MascotaFeliz.App\\MascotaFeliz.App.Persistencia\\MascotaFeliz.App.Persistencia.csproj"
+            "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Persistencia\\MascotaFeliz.App.Persistencia.csproj": {
+              "projectPath": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Persistencia\\MascotaFeliz.App.Persistencia.csproj"
             }
           }
         }

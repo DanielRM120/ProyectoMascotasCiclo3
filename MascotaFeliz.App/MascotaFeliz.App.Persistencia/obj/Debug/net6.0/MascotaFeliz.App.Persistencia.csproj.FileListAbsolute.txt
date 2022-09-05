@@ -1,17 +1,17 @@
-E:\Developments\ciclo3\MascotaFeliz\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\net6.0\MascotaFeliz.App.Persistencia.deps.json
-E:\Developments\ciclo3\MascotaFeliz\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\net6.0\MascotaFeliz.App.Persistencia.dll
-E:\Developments\ciclo3\MascotaFeliz\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\net6.0\MascotaFeliz.App.Persistencia.pdb
-E:\Developments\ciclo3\MascotaFeliz\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\net6.0\MascotaFeliz.App.Persistencia.csproj.AssemblyReference.cache
-E:\Developments\ciclo3\MascotaFeliz\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\net6.0\MascotaFeliz.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
-E:\Developments\ciclo3\MascotaFeliz\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\net6.0\MascotaFeliz.App.Persistencia.AssemblyInfoInputs.cache
-E:\Developments\ciclo3\MascotaFeliz\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\net6.0\MascotaFeliz.App.Persistencia.AssemblyInfo.cs
-E:\Developments\ciclo3\MascotaFeliz\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\net6.0\MascotaFeliz.App.Persistencia.csproj.CoreCompileInputs.cache
-E:\Developments\ciclo3\MascotaFeliz\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\net6.0\MascotaFeliz.App.Persistencia.dll
-E:\Developments\ciclo3\MascotaFeliz\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\net6.0\refint\MascotaFeliz.App.Persistencia.dll
-E:\Developments\ciclo3\MascotaFeliz\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\net6.0\MascotaFeliz.App.Persistencia.pdb
-E:\Developments\ciclo3\MascotaFeliz\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\net6.0\ref\MascotaFeliz.App.Persistencia.dll
-E:\Developments\ciclo3\MascotaFeliz\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\net6.0\MascotaFeliz.App.Persistencia.runtimeconfig.json
-E:\Developments\ciclo3\MascotaFeliz\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\net6.0\MascotaFeliz.App.Dominio.dll
-E:\Developments\ciclo3\MascotaFeliz\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\net6.0\MascotaFeliz.App.Dominio.pdb
-E:\Developments\ciclo3\MascotaFeliz\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\net6.0\MascotaFeliz.App.Persistencia.csproj.CopyComplete
-E:\Developments\ciclo3\MascotaFeliz\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\net6.0\MascotaFeliz.App.Persistencia.genruntimeconfig.cache
+D:\Ciclo 3\Proyecto\Aplicacion\ProyectoMascotasCiclo3-master\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\net6.0\MascotaFeliz.App.Persistencia.csproj.AssemblyReference.cache
+D:\Ciclo 3\Proyecto\Aplicacion\ProyectoMascotasCiclo3-master\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\net6.0\MascotaFeliz.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ciclo 3\Proyecto\Aplicacion\ProyectoMascotasCiclo3-master\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\net6.0\MascotaFeliz.App.Persistencia.AssemblyInfoInputs.cache
+D:\Ciclo 3\Proyecto\Aplicacion\ProyectoMascotasCiclo3-master\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\net6.0\MascotaFeliz.App.Persistencia.AssemblyInfo.cs
+D:\Ciclo 3\Proyecto\Aplicacion\ProyectoMascotasCiclo3-master\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\net6.0\MascotaFeliz.App.Persistencia.csproj.CoreCompileInputs.cache
+D:\Ciclo 3\Proyecto\Aplicacion\ProyectoMascotasCiclo3-master\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\net6.0\MascotaFeliz.App.Persistencia.deps.json
+D:\Ciclo 3\Proyecto\Aplicacion\ProyectoMascotasCiclo3-master\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\net6.0\MascotaFeliz.App.Persistencia.runtimeconfig.json
+D:\Ciclo 3\Proyecto\Aplicacion\ProyectoMascotasCiclo3-master\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\net6.0\MascotaFeliz.App.Persistencia.dll
+D:\Ciclo 3\Proyecto\Aplicacion\ProyectoMascotasCiclo3-master\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\net6.0\MascotaFeliz.App.Persistencia.pdb
+D:\Ciclo 3\Proyecto\Aplicacion\ProyectoMascotasCiclo3-master\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\net6.0\MascotaFeliz.App.Dominio.dll
+D:\Ciclo 3\Proyecto\Aplicacion\ProyectoMascotasCiclo3-master\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\net6.0\MascotaFeliz.App.Dominio.pdb
+D:\Ciclo 3\Proyecto\Aplicacion\ProyectoMascotasCiclo3-master\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\net6.0\MascotaFeliz.App.Persistencia.csproj.CopyComplete
+D:\Ciclo 3\Proyecto\Aplicacion\ProyectoMascotasCiclo3-master\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\net6.0\MascotaFeliz.App.Persistencia.dll
+D:\Ciclo 3\Proyecto\Aplicacion\ProyectoMascotasCiclo3-master\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\net6.0\refint\MascotaFeliz.App.Persistencia.dll
+D:\Ciclo 3\Proyecto\Aplicacion\ProyectoMascotasCiclo3-master\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\net6.0\MascotaFeliz.App.Persistencia.pdb
+D:\Ciclo 3\Proyecto\Aplicacion\ProyectoMascotasCiclo3-master\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\net6.0\MascotaFeliz.App.Persistencia.genruntimeconfig.cache
+D:\Ciclo 3\Proyecto\Aplicacion\ProyectoMascotasCiclo3-master\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\net6.0\ref\MascotaFeliz.App.Persistencia.dll

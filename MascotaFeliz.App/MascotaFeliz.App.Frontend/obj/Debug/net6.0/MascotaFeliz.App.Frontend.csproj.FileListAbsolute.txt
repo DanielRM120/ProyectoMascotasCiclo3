@@ -1,52 +1,26 @@
-D:\ProyectoMascotasCiclo3-master\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\net6.0\appsettings.Development.json
-D:\ProyectoMascotasCiclo3-master\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\net6.0\appsettings.json
-D:\ProyectoMascotasCiclo3-master\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\net6.0\MascotaFeliz.App.Frontend.staticwebassets.runtime.json
-D:\ProyectoMascotasCiclo3-master\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\net6.0\MascotaFeliz.App.Frontend.exe
-D:\ProyectoMascotasCiclo3-master\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\net6.0\MascotaFeliz.App.Frontend.deps.json
-D:\ProyectoMascotasCiclo3-master\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\net6.0\MascotaFeliz.App.Frontend.runtimeconfig.json
-D:\ProyectoMascotasCiclo3-master\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\net6.0\MascotaFeliz.App.Frontend.dll
-D:\ProyectoMascotasCiclo3-master\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\net6.0\MascotaFeliz.App.Frontend.pdb
-D:\ProyectoMascotasCiclo3-master\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\net6.0\MascotaFeliz.App.Frontend.csproj.AssemblyReference.cache
-D:\ProyectoMascotasCiclo3-master\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\net6.0\MascotaFeliz.App.Frontend.GeneratedMSBuildEditorConfig.editorconfig
-D:\ProyectoMascotasCiclo3-master\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\net6.0\MascotaFeliz.App.Frontend.AssemblyInfoInputs.cache
-D:\ProyectoMascotasCiclo3-master\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\net6.0\MascotaFeliz.App.Frontend.AssemblyInfo.cs
-D:\ProyectoMascotasCiclo3-master\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\net6.0\MascotaFeliz.App.Frontend.csproj.CoreCompileInputs.cache
-D:\ProyectoMascotasCiclo3-master\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\net6.0\MascotaFeliz.App.Frontend.MvcApplicationPartsAssemblyInfo.cache
-D:\ProyectoMascotasCiclo3-master\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\net6.0\MascotaFeliz.App.Frontend.RazorAssemblyInfo.cache
-D:\ProyectoMascotasCiclo3-master\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\net6.0\MascotaFeliz.App.Frontend.RazorAssemblyInfo.cs
-D:\ProyectoMascotasCiclo3-master\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\net6.0\staticwebassets.build.json
-D:\ProyectoMascotasCiclo3-master\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\net6.0\staticwebassets.development.json
-D:\ProyectoMascotasCiclo3-master\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
-D:\ProyectoMascotasCiclo3-master\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\net6.0\scopedcss\bundle\MascotaFeliz.App.Frontend.styles.css
-D:\ProyectoMascotasCiclo3-master\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\net6.0\scopedcss\projectbundle\MascotaFeliz.App.Frontend.bundle.scp.css
-D:\ProyectoMascotasCiclo3-master\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\net6.0\MascotaFeliz.App.Frontend.dll
-D:\ProyectoMascotasCiclo3-master\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\net6.0\refint\MascotaFeliz.App.Frontend.dll
-D:\ProyectoMascotasCiclo3-master\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\net6.0\MascotaFeliz.App.Frontend.pdb
-D:\ProyectoMascotasCiclo3-master\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\net6.0\MascotaFeliz.App.Frontend.genruntimeconfig.cache
-D:\ProyectoMascotasCiclo3-master\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\net6.0\ref\MascotaFeliz.App.Frontend.dll
-D:\Proyecto\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\net6.0\appsettings.Development.json
-D:\Proyecto\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\net6.0\appsettings.json
-D:\Proyecto\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\net6.0\MascotaFeliz.App.Frontend.staticwebassets.runtime.json
-D:\Proyecto\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\net6.0\MascotaFeliz.App.Frontend.exe
-D:\Proyecto\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\net6.0\MascotaFeliz.App.Frontend.deps.json
-D:\Proyecto\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\net6.0\MascotaFeliz.App.Frontend.runtimeconfig.json
-D:\Proyecto\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\net6.0\MascotaFeliz.App.Frontend.dll
-D:\Proyecto\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\net6.0\MascotaFeliz.App.Frontend.pdb
-D:\Proyecto\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\net6.0\MascotaFeliz.App.Frontend.csproj.AssemblyReference.cache
-D:\Proyecto\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\net6.0\MascotaFeliz.App.Frontend.GeneratedMSBuildEditorConfig.editorconfig
-D:\Proyecto\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\net6.0\MascotaFeliz.App.Frontend.AssemblyInfoInputs.cache
-D:\Proyecto\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\net6.0\MascotaFeliz.App.Frontend.AssemblyInfo.cs
-D:\Proyecto\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\net6.0\MascotaFeliz.App.Frontend.csproj.CoreCompileInputs.cache
-D:\Proyecto\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\net6.0\MascotaFeliz.App.Frontend.MvcApplicationPartsAssemblyInfo.cache
-D:\Proyecto\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\net6.0\MascotaFeliz.App.Frontend.RazorAssemblyInfo.cache
-D:\Proyecto\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\net6.0\MascotaFeliz.App.Frontend.RazorAssemblyInfo.cs
-D:\Proyecto\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\net6.0\staticwebassets.build.json
-D:\Proyecto\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\net6.0\staticwebassets.development.json
-D:\Proyecto\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
-D:\Proyecto\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\net6.0\scopedcss\bundle\MascotaFeliz.App.Frontend.styles.css
-D:\Proyecto\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\net6.0\scopedcss\projectbundle\MascotaFeliz.App.Frontend.bundle.scp.css
-D:\Proyecto\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\net6.0\MascotaFeliz.App.Frontend.dll
-D:\Proyecto\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\net6.0\refint\MascotaFeliz.App.Frontend.dll
-D:\Proyecto\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\net6.0\MascotaFeliz.App.Frontend.pdb
-D:\Proyecto\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\net6.0\MascotaFeliz.App.Frontend.genruntimeconfig.cache
-D:\Proyecto\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\net6.0\ref\MascotaFeliz.App.Frontend.dll
+D:\Ciclo 3\ProyectoUcaldas\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\net6.0\appsettings.Development.json
+D:\Ciclo 3\ProyectoUcaldas\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\net6.0\appsettings.json
+D:\Ciclo 3\ProyectoUcaldas\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\net6.0\MascotaFeliz.App.Frontend.staticwebassets.runtime.json
+D:\Ciclo 3\ProyectoUcaldas\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\net6.0\MascotaFeliz.App.Frontend.exe
+D:\Ciclo 3\ProyectoUcaldas\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\net6.0\MascotaFeliz.App.Frontend.csproj.AssemblyReference.cache
+D:\Ciclo 3\ProyectoUcaldas\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\net6.0\MascotaFeliz.App.Frontend.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ciclo 3\ProyectoUcaldas\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\net6.0\MascotaFeliz.App.Frontend.AssemblyInfoInputs.cache
+D:\Ciclo 3\ProyectoUcaldas\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\net6.0\MascotaFeliz.App.Frontend.AssemblyInfo.cs
+D:\Ciclo 3\ProyectoUcaldas\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\net6.0\MascotaFeliz.App.Frontend.csproj.CoreCompileInputs.cache
+D:\Ciclo 3\ProyectoUcaldas\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\net6.0\MascotaFeliz.App.Frontend.MvcApplicationPartsAssemblyInfo.cache
+D:\Ciclo 3\ProyectoUcaldas\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\net6.0\MascotaFeliz.App.Frontend.RazorAssemblyInfo.cache
+D:\Ciclo 3\ProyectoUcaldas\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\net6.0\MascotaFeliz.App.Frontend.RazorAssemblyInfo.cs
+D:\Ciclo 3\ProyectoUcaldas\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\net6.0\staticwebassets.build.json
+D:\Ciclo 3\ProyectoUcaldas\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\net6.0\staticwebassets.development.json
+D:\Ciclo 3\ProyectoUcaldas\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Ciclo 3\ProyectoUcaldas\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\net6.0\scopedcss\bundle\MascotaFeliz.App.Frontend.styles.css
+D:\Ciclo 3\ProyectoUcaldas\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\net6.0\scopedcss\projectbundle\MascotaFeliz.App.Frontend.bundle.scp.css
+D:\Ciclo 3\ProyectoUcaldas\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\net6.0\MascotaFeliz.App.Frontend.dll
+D:\Ciclo 3\ProyectoUcaldas\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\net6.0\refint\MascotaFeliz.App.Frontend.dll
+D:\Ciclo 3\ProyectoUcaldas\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\net6.0\MascotaFeliz.App.Frontend.pdb
+D:\Ciclo 3\ProyectoUcaldas\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\net6.0\MascotaFeliz.App.Frontend.deps.json
+D:\Ciclo 3\ProyectoUcaldas\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\net6.0\MascotaFeliz.App.Frontend.runtimeconfig.json
+D:\Ciclo 3\ProyectoUcaldas\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\net6.0\MascotaFeliz.App.Frontend.dll
+D:\Ciclo 3\ProyectoUcaldas\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\net6.0\MascotaFeliz.App.Frontend.pdb
+D:\Ciclo 3\ProyectoUcaldas\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\net6.0\MascotaFeliz.App.Frontend.genruntimeconfig.cache
+D:\Ciclo 3\ProyectoUcaldas\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\net6.0\ref\MascotaFeliz.App.Frontend.dll

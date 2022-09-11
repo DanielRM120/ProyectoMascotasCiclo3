@@ -22,3 +22,17 @@ D:\Ciclo 3\Proyecto\Aplicacion\ProyectoMascotasCiclo3-master\MascotaFeliz.App\Ma
 D:\Ciclo 3\Proyecto\Aplicacion\ProyectoMascotasCiclo3-master\MascotaFeliz.App\MascotaFeliz.App.Dominio\obj\Debug\net6.0\refint\MascotaFeliz.App.Dominio.dll
 D:\Ciclo 3\Proyecto\Aplicacion\ProyectoMascotasCiclo3-master\MascotaFeliz.App\MascotaFeliz.App.Dominio\obj\Debug\net6.0\MascotaFeliz.App.Dominio.pdb
 D:\Ciclo 3\Proyecto\Aplicacion\ProyectoMascotasCiclo3-master\MascotaFeliz.App\MascotaFeliz.App.Dominio\obj\Debug\net6.0\ref\MascotaFeliz.App.Dominio.dll
+D:\Proyecto\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Dominio\bin\Debug\net6.0\MascotaFeliz.App.Dominio.deps.json
+D:\Proyecto\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Dominio\bin\Debug\net6.0\MascotaFeliz.App.Dominio.runtimeconfig.json
+D:\Proyecto\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Dominio\bin\Debug\net6.0\MascotaFeliz.App.Dominio.dll
+D:\Proyecto\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Dominio\bin\Debug\net6.0\MascotaFeliz.App.Dominio.pdb
+D:\Proyecto\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Dominio\obj\Debug\net6.0\MascotaFeliz.App.Dominio.csproj.AssemblyReference.cache
+D:\Proyecto\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Dominio\obj\Debug\net6.0\MascotaFeliz.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyecto\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Dominio\obj\Debug\net6.0\MascotaFeliz.App.Dominio.AssemblyInfoInputs.cache
+D:\Proyecto\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Dominio\obj\Debug\net6.0\MascotaFeliz.App.Dominio.AssemblyInfo.cs
+D:\Proyecto\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Dominio\obj\Debug\net6.0\MascotaFeliz.App.Dominio.csproj.CoreCompileInputs.cache
+D:\Proyecto\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Dominio\obj\Debug\net6.0\MascotaFeliz.App.Dominio.dll
+D:\Proyecto\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Dominio\obj\Debug\net6.0\refint\MascotaFeliz.App.Dominio.dll
+D:\Proyecto\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Dominio\obj\Debug\net6.0\MascotaFeliz.App.Dominio.pdb
+D:\Proyecto\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Dominio\obj\Debug\net6.0\MascotaFeliz.App.Dominio.genruntimeconfig.cache
+D:\Proyecto\ProyectoMascotasCiclo3\MascotaFeliz.App\MascotaFeliz.App.Dominio\obj\Debug\net6.0\ref\MascotaFeliz.App.Dominio.dll

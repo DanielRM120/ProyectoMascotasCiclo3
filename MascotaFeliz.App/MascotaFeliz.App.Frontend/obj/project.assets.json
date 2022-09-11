@@ -8,11 +8,16 @@
     "net6.0": []
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\Daniel\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\Huawei D14 CI5\\.nuget\\packages\\": {}
+>>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\MascotaFeliz.App.Frontend.csproj",
       "projectName": "MascotaFeliz.App.Frontend",
       "projectPath": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\MascotaFeliz.App.Frontend.csproj",
@@ -21,6 +26,16 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+      "projectUniqueName": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\MascotaFeliz.App.Frontend.csproj",
+      "projectName": "MascotaFeliz.App.Frontend",
+      "projectPath": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\MascotaFeliz.App.Frontend.csproj",
+      "packagesPath": "C:\\Users\\Huawei D14 CI5\\.nuget\\packages\\",
+      "outputPath": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Huawei D14 CI5\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       ],
       "originalTargetFrameworks": [
         "net6.0"

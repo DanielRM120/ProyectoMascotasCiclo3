@@ -7,17 +7,335 @@ html {
     font-size: 16px;
   }
 }
+  
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 
-html {
-  position: relative;
-  min-height: 100%;
+
 }
 
 body {
-  margin-bottom: 60px;
+  background: #789aff;
+  background: -webkit-linear-gradient(to left, #78aaff, #78f6ff);
+  background: linear-gradient(to left, #78e2ff, #78ffe4);
+  font-family: 'Poppins', sans-serif;
+
+}
+
+
+header {
+  text-align: right;
+  padding: 30px 0;
+  background-color: #4f5a44;
+
+}
+
+.slogan {
+  position: absolute;
+  display: block;
+  top: 2%;
+  left: 2%;
+  height: 150px;
+  border-radius: 200px;
+}
+
+nav a {
+  text-decoration: none;
+  display: inline-block;
+  color: #fff;
+  margin: 0 20px;
+  padding: 0 20px;
+  
+}
+
+nav a:hover {
+  transition: 0.5s;
+  background: #5478ef45;
+  color: #fff;
+  
+}
+
+
+.encabezado-img {
+  
+  background-color: #555a44e2;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  
+  background-repeat: no-repeat;
+  
+}
+.encabezado-img img{
+  position: absolute;
+  display: inline;
+  line-height: 0px;
+  height: 350px;
+  right: 0;
+  top: 45px;
+
+}
+.encabezado-img .slice{
+  position: absolute;
+  left: 0;
+  top: 210px;
+}
+.encabezado-img .slice2{
+  width: 1920px;
+  height: 27px;
+  margin-bottom: 0;
+  top: 545px;
+}
+
+.encabezado-img h1 {
+  font-size: 50px;
+  padding: 30px 0;
+  z-index: 1;  
+
+
+
+}
+
+
+.encabezado-img .img {
+  font-size: 30px;
+  font-weight: bold;
+  border: solid 1px;
+  text-decoration: none;
+  color: #000;
+  letter-spacing: 1px;
+  padding: 4px 12px;
+  border-radius: 6px;
+
+}
+
+
+.encabezado-img .img:hover {
+  transition: 0.5s;
+  background: #ef8354;
+}
+
+
+.contactos{
+  margin-top: 700px ;
+  margin-left: 400px;
+  margin-bottom:50px;
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+}
+
+.contactos p{
+  margin-bottom: 17px;
+  margin-right: 30px ;
+}
+.contactos form  .campo, textarea{
+  width: 80%;
+  padding: 15px;
+  font-size: 15px;
+  margin-bottom: 20px;
+  border: 1px solid ;
+  border-radius: 5px;
+}
+.contactos form textarea{
+  max-width: 500 px ;
+  min-width: 500px;
+  min-height: 140px;
+  max-height: 140px;
+}
+.contactos .boton{
+  padding: 15px;
+  font-size: 15px;
+  outline: 0px;
+  border: none;
+  border-radius: 3px;
+  background: rgb(93, 0, 255);
 }
 
 
 
+/* ==> fin css index.html <== */
+.registro {
+  width: 400px;
+  background: #24303c;
+  padding: 30px;
+  margin: auto;
+  margin-top: 100px;
+  border-radius: 4px;
+  font-family: 'Open Sans', sans-serif;
+  color: aliceblue;
+  box-shadow: 7px 13px 37px #000;
+}
+
+.registro h4 {
+  font-size: 20px;
+  margin-bottom: 20px;
+  letter-spacing: 1px;
+  color: #fff;
+  text-align: center;
+
+}
+
+.controls {
+  width: 100%;
+  background: #24303c;
+  padding: 10px;
+  border-radius: 6px;
+  margin-bottom: 10px;
+  border: 1px solid #a8ff78;
+  font-size: 15px;
+  color: aliceblue;
+}
+
+.registro p {
+  height: 40px;
+  text-align: center;
+  font-size: 14px;
+  line-height: 40px;
+  color: aliceblue;
+
+}
+
+
+.registro .cuenta {
+  color: #fff;
+  margin: auto;
+  font-size: 14px;
+  text-decoration: none;
+  border: none;
+
+}
+
+
+
+.registro .boton {
+  width: 100%;
+  background: linear-gradient(to right, #78ff8c, #78ff8f);
+  border: none;
+  padding: 12px;
+  color: #000;
+  margin: 16px 0;
+  font-size: 20px;
+  letter-spacing: 1px;
+  cursor: pointer;
+  border-radius: 6px;
+  font-weight: bold;
+
+}
+
+@media (hover: hover) {
+  .boton:hover {
+      color: rgba(255, 255, 255, 0.336);
+      transition: 0.5s;
+      border-color: #000;
+  }
+}
+
+.consulta {
+  width: 400px;
+  background: #24303c;
+  padding: 30px;
+  margin: auto;
+  margin-top: 100px;
+  border-radius: 4px;
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+  box-shadow: 7px 13px 37px #000;
+  }
+  
+  .consulta h2 {
+  font-size: 20px;
+  margin-bottom: 20px;
+  }
+  
+  .consulta .boton {
+  width: 100%;
+  background: #78ff83;
+  background: -webkit-linear-gradient(to left, #78ffd7fe, #a8ff78);
+  background: linear-gradient(to left, #78ff93, #78fff6);
+  border: none;
+  padding: 12px;
+  color: black;
+  font-size: 18px;
+  cursor: pointer;
+  }
+
+/* Estilos de consultar mascota */
+.form-register12{
+  width: 400px;
+  background: #24303c;
+  padding: 30px;
+  margin: auto;
+  margin-top: 100px;
+  border-radius: 4px;
+  font-family: 'Open Sans', sans-serif;
+  color: aliceblue;
+  box-shadow: 7px 13px 37px #000;
+}
+
+.form-register12 h4 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  letter-spacing: 1px;
+  color: #fff;
+  text-align: center;
+}
+
+.controlis{
+  width: 100%;
+  background: #24303c;
+  padding: 10px;
+  border-radius: 6px;
+  margin-bottom: 10px;
+  border: 1px solid #a8ff78;
+  font-size: 15px;
+  color: aliceblue;
+
+}
+
+.form-register12 p{
+
+  height: 40px;
+  text-align: center;
+  font-size: 14px;
+  line-height: 40px;
+  color: aliceblue;
+
+}
+
+.form-register12 a{
+  color: #fff;
+  margin: auto;
+  font-size: 14px;
+  text-decoration: none;
+  border: none;
+
+}
+
+.form-register12 a:hover{
+  color: white;
+  text-decoration: underline;
+
+}
+
+.form-register12 .botons {
+  width: 100%;
+  background: linear-gradient(to left, #78ff9c, #a8ff78);
+  border: none;
+  padding: 12px;
+  color: #000;
+  margin: 16px 0;
+  font-size: 20px;
+  letter-spacing: 1px;
+  cursor: pointer;
+  border-radius: 6px;
+  font-weight: bold;
+
+}
+  
 
  

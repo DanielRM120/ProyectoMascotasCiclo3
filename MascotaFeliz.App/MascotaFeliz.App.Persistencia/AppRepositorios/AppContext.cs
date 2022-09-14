@@ -5,6 +5,7 @@ namespace MascotaFeliz.App.Persistencia
 {
     public class AppContext : DbContext
     {
+        //Conversión de Clases al SQL (DbSet)
         public DbSet<Agenda> Agendas {get; set;}
         public DbSet<Cliente> Clientes {get; set;}
         public DbSet<HistoriaClinica> HistoriasClinicas {get; set;}
@@ -14,6 +15,8 @@ namespace MascotaFeliz.App.Persistencia
         public DbSet<Veterinario> Veterinarios {get; set;}
         public DbSet<VisitaDomiciliaria> VisitasDomiciliarias {get; set;}
 
+
+        //Conexion al SQL
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             if (!optionsBuilder.IsConfigured)

@@ -1,10 +1,6 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-  "Hash": "SbSOK+gL7LS7eTY70VPXzqinPJ2K66cT9cM0C3AShFs=",
-=======
-  "Hash": "oeUpNP+EQuhG1zTwqaQqUBaI85JJhrDNmoMCjC47IlM=",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
+  "Hash": "PipEw8ADUS5ZXgH4gjoFLxU41rdS0y4d2BWErR5eSYU=",
   "Source": "MascotaFeliz.App.Frontend",
   "BasePath": "_content/MascotaFeliz.App.Frontend",
   "Mode": "Default",
@@ -14,28 +10,17 @@
     {
       "Name": "MascotaFeliz.App.Frontend\\wwwroot",
       "Source": "MascotaFeliz.App.Frontend",
-<<<<<<< HEAD
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\obj\\Debug\\net6.0\\scopedcss\\bundle\\MascotaFeliz.App.Frontend.styles.css",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\obj\\Debug\\net6.0\\scopedcss\\bundle\\MascotaFeliz.App.Frontend.styles.css",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "MascotaFeliz.App.Frontend.styles.css",
       "AssetKind": "All",
@@ -46,7 +31,6 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
       "OriginalItemSpec": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\obj\\Debug\\net6.0\\scopedcss\\bundle\\MascotaFeliz.App.Frontend.styles.css"
     },
     {
@@ -54,15 +38,6 @@
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
-=======
-      "OriginalItemSpec": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\obj\\Debug\\net6.0\\scopedcss\\bundle\\MascotaFeliz.App.Frontend.styles.css"
-    },
-    {
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MascotaFeliz.App.Frontend.bundle.scp.css",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "MascotaFeliz.App.Frontend.bundle.scp.css",
       "AssetKind": "All",
@@ -73,7 +48,6 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
       "OriginalItemSpec": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MascotaFeliz.App.Frontend.bundle.scp.css"
     },
     {
@@ -81,15 +55,6 @@
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "OriginalItemSpec": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MascotaFeliz.App.Frontend.bundle.scp.css"
-    },
-    {
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\css\\site.css",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -103,41 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\css\\site1.css",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\css\\site1.css",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
-      "BasePath": "_content/MascotaFeliz.App.Frontend",
-      "RelativePath": "css/site1.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\site1.css"
-    },
-    {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\favicon.ico",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\favicon.ico",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -151,16 +85,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\js\\site.js",
+      "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\imgs\\edicion-perro.jpg",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\imgs\\edicion-perro.jpg",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "imgs/edicion-perro.jpg",
       "AssetKind": "All",
@@ -174,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\edicion-perro.jpg"
     },
     {
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\imgs\\fon.png",
+      "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\imgs\\fon.png",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
+      "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "imgs/fon.png",
       "AssetKind": "All",
@@ -191,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\fon.png"
     },
     {
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\imgs\\imagen-Cumple.jpg",
+      "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\imgs\\imagen-Cumple.jpg",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
+      "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "imgs/imagen-Cumple.jpg",
       "AssetKind": "All",
@@ -208,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\imagen-Cumple.jpg"
     },
     {
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\imgs\\Imagen-Gato.jpg",
+      "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\imgs\\Imagen-Gato.jpg",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
+      "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "imgs/Imagen-Gato.jpg",
       "AssetKind": "All",
@@ -225,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\Imagen-Gato.jpg"
     },
     {
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\imgs\\Mascota_Feliz_Logo.png",
+      "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\imgs\\Mascota_Feliz_Logo.png",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
+      "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "imgs/Mascota_Feliz_Logo.png",
       "AssetKind": "All",
@@ -242,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\Mascota_Feliz_Logo.png"
     },
     {
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\imgs\\mascota.png",
+      "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\imgs\\mascota.png",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
+      "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "imgs/mascota.png",
       "AssetKind": "All",
@@ -259,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\mascota.png"
     },
     {
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\imgs\\perro-gorro.jpg",
+      "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\imgs\\perro-gorro.jpg",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
+      "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "imgs/perro-gorro.jpg",
       "AssetKind": "All",
@@ -276,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\perro-gorro.jpg"
     },
     {
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\imgs\\perro-posudo.jpg",
+      "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\imgs\\perro-posudo.jpg",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
+      "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "imgs/perro-posudo.jpg",
       "AssetKind": "All",
@@ -293,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\perro-posudo.jpg"
     },
     {
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\imgs\\Pitbull.jpg",
+      "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\imgs\\Pitbull.jpg",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
+      "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "imgs/Pitbull.jpg",
       "AssetKind": "All",
@@ -310,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\Pitbull.jpg"
     },
     {
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\imgs\\slice.png",
+      "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\imgs\\slice.png",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
+      "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "imgs/slice.png",
       "AssetKind": "All",
@@ -327,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\slice.png"
     },
     {
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\imgs\\slider-background-1.png",
+      "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\imgs\\slider-background-1.png",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
+      "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "imgs/slider-background-1.png",
       "AssetKind": "All",
@@ -344,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\slider-background-1.png"
     },
     {
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\imgs\\slider-img-1.png",
+      "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\imgs\\slider-img-1.png",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
+      "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "imgs/slider-img-1.png",
       "AssetKind": "All",
@@ -361,11 +289,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\slider-img-1.png"
     },
     {
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\js\\site.js",
+      "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\js\\site.js",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
+      "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -379,17 +306,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -403,17 +323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -427,17 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -451,17 +357,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -475,17 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -499,17 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -523,17 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -547,17 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -571,17 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -595,17 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -619,17 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -643,17 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -667,17 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -691,17 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -715,17 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -739,17 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -763,17 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -787,17 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -811,17 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -835,17 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -859,17 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -883,17 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -907,17 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -931,17 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -955,17 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -979,17 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1003,17 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1027,17 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1051,17 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1075,17 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1099,17 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1123,17 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1147,17 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1171,17 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1195,17 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1219,17 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1243,17 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1267,17 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1291,17 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1315,17 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1339,17 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1363,17 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1387,17 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1411,17 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1435,17 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\bootstrap\\LICENSE",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1459,17 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1483,17 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1507,17 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1531,17 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1555,17 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1579,17 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1603,17 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1627,17 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1651,17 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1675,17 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1699,17 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1723,17 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-=======
-      "Identity": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\ProyectoUcaldas\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
->>>>>>> d91a7ab806fa812157fae826733ed2bc80272c28
       "BasePath": "_content/MascotaFeliz.App.Frontend",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",

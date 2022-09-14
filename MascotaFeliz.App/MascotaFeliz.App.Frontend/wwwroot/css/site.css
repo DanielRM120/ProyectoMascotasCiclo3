@@ -1,341 +1,270 @@
 html {
   font-size: 14px;
-}
-
-@media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
-}
-  
+}  
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-
-
 }
 
-body {
-  background: #789aff;
-  background: -webkit-linear-gradient(to left, #78aaff, #78f6ff);
-  background: linear-gradient(to left, #78e2ff, #78ffe4);
-  font-family: 'Poppins', sans-serif;
-
+/*-----------------------------------------------------------*/
+header .container{
+  background-image: linear-gradient(90deg, white, pink, rgb(150, 1, 150));
 }
 
-
-header {
-  text-align: right;
-  padding: 30px 0;
-  background-color: #4f5a44;
-
+body{
+  font-family: 'Roboto', sans-serif;
+  background-image: linear-gradient(90deg, white, pink, rgb(150, 1, 150));
+  margin: 0;
 }
 
-.slogan {
-  position: absolute;
-  display: block;
-  top: 2%;
-  left: 2%;
-  height: 150px;
-  border-radius: 200px;
-}
-
-nav a {
-  text-decoration: none;
-  display: inline-block;
-  color: #fff;
-  margin: 0 20px;
-  padding: 0 20px;
-  
-}
+h1{font-size: 3.5em;}
+h2{font-size: 2.7em;}
+h3{font-size: 2em;}
+p{font-size: 1.25em;}
 
 nav a:hover {
-  transition: 0.5s;
-  background: #5478ef45;
-  color: #fff;
-  
+  transition: all 0.5s ease;
+  background: #9335d145;
+  border-radius: 8px;
+  transform: scale(0.95);
 }
 
+button{
+  font-size: 1.5em;
+  font-weight: bold;
+  padding: 10px 20px;
+  border-radius: 10px;
+  border: 2px solid rgba(0, 0, 0, 0.5);
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
+  color: white;
+  background-color: blueviolet;
+  transition: all 0.5s ease;
+}
 
-.encabezado-img {
-  
-  background-color: #555a44e2;
+button:hover{
+  transition: 0.4s;
+  transform: scale(0.92);
+  background: rgb(101, 33, 165);
+  color: #fff;
+}
+
+.container{
+  max-width: 1400px;
+  margin: auto;
+}
+
+header{
+  background-color: azure;
+}
+
+header:hover{
+  color: blueviolet;
+}
+
+#hero{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+  height: 90vh;
+  color: white;
+  background-image:linear-gradient(
+    0deg,
+    rgba(0,0,0,0.5),
+    rgba(0,0,0,0.5)
+  )
+  ,url("../imgs/perro-posudo.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+#hero h1{
+  color: white;
+  font-weight: bold;
+}
+
+#hero button{
+  font-size: 1.75em;
+}
+
+#hero2 .container{
+  text-align: center;
+  padding: 180px 12px;
+  display: flex;
+  justify-content: center;
+}
+
+#hero2 h2{
+  font-weight: bold;
+  text-align: center;
+}
+
+#hero2 .img-container{
+  background-image: url("../imgs/edicion-perro.jpg");
+  background-size: cover;
+  background-position: center center;
   height: 500px;
+  width: 400px;
+  border-radius: 10px;
+}
+
+#hero2{
+  transition: all 0.5s ease;
+}
+
+#hero2:hover {
+  transition: 0.5s;
+  transform: scale(0.98);
+}
+
+#hero2 .texto{
+  width: 50%;
+  text-align: initial;
+  padding: 0px 30px;
+  justify-content: center;
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
-  color: #fff;
-  
-  background-repeat: no-repeat;
-  
-}
-.encabezado-img img{
-  position: absolute;
-  display: inline;
-  line-height: 0px;
-  height: 350px;
-  right: 0;
-  top: 45px;
-
-}
-.encabezado-img .slice{
-  position: absolute;
-  left: 0;
-  top: 210px;
-}
-.encabezado-img .slice2{
-  width: 1920px;
-  height: 27px;
-  margin-bottom: 0;
-  top: 545px;
 }
 
-.encabezado-img h1 {
-  font-size: 50px;
-  padding: 30px 0;
-  z-index: 1;  
-
-
-
+.color-titulo-hero2{
+  color: blueviolet;
+  text-shadow: 0 0 1px rgba(60, 4, 97, 0.411);
 }
 
-
-.encabezado-img .img {
-  font-size: 30px;
-  font-weight: bold;
-  border: solid 1px;
-  text-decoration: none;
-  color: #000;
-  letter-spacing: 1px;
-  padding: 4px 12px;
-  border-radius: 6px;
-
-}
-
-
-.encabezado-img .img:hover {
-  transition: 0.5s;
-  background: #ef8354;
-}
-
-
-.contactos{
-  margin-top: 700px ;
-  margin-left: 400px;
-  margin-bottom:50px;
-  display: grid;
-  grid-template-columns: repeat(2,1fr);
-}
-
-.contactos p{
-  margin-bottom: 17px;
-  margin-right: 30px ;
-}
-.contactos form  .campo, textarea{
-  width: 80%;
-  padding: 15px;
-  font-size: 15px;
-  margin-bottom: 20px;
-  border: 1px solid ;
-  border-radius: 5px;
-}
-.contactos form textarea{
-  max-width: 500 px ;
-  min-width: 500px;
-  min-height: 140px;
-  max-height: 140px;
-}
-.contactos .boton{
-  padding: 15px;
-  font-size: 15px;
-  outline: 0px;
-  border: none;
-  border-radius: 3px;
-  background: rgb(93, 0, 255);
-}
-
-
-
-/* ==> fin css index.html <== */
-.registro {
-  width: 400px;
-  background: #24303c;
-  padding: 30px;
-  margin: auto;
-  margin-top: 100px;
-  border-radius: 4px;
-  font-family: 'Open Sans', sans-serif;
-  color: aliceblue;
-  box-shadow: 7px 13px 37px #000;
-}
-
-.registro h4 {
-  font-size: 20px;
-  margin-bottom: 20px;
-  letter-spacing: 1px;
-  color: #fff;
-  text-align: center;
-
-}
-
-.controls {
-  width: 100%;
-  background: #24303c;
-  padding: 10px;
-  border-radius: 6px;
-  margin-bottom: 10px;
-  border: 1px solid #a8ff78;
-  font-size: 15px;
-  color: aliceblue;
-}
-
-.registro p {
-  height: 40px;
-  text-align: center;
-  font-size: 14px;
-  line-height: 40px;
-  color: aliceblue;
-
-}
-
-
-.registro .cuenta {
-  color: #fff;
-  margin: auto;
-  font-size: 14px;
-  text-decoration: none;
-  border: none;
-
-}
-
-
-
-.registro .boton {
-  width: 100%;
-  background: linear-gradient(to right, #78ff8c, #78ff8f);
-  border: none;
-  padding: 12px;
-  color: #000;
-  margin: 16px 0;
-  font-size: 20px;
-  letter-spacing: 1px;
-  cursor: pointer;
-  border-radius: 6px;
-  font-weight: bold;
-
-}
-
-@media (hover: hover) {
-  .boton:hover {
-      color: rgba(255, 255, 255, 0.336);
-      transition: 0.5s;
-      border-color: #000;
-  }
-}
-
-.consulta {
-  width: 400px;
-  background: #24303c;
-  padding: 30px;
-  margin: auto;
-  margin-top: 100px;
-  border-radius: 4px;
-  font-family: 'Open Sans', sans-serif;
+#nuestros-beneficios{
+  background-color: rgb(30, 30, 30);
   color: white;
-  box-shadow: 7px 13px 37px #000;
-  }
-  
-  .consulta h2 {
-  font-size: 20px;
-  margin-bottom: 20px;
-  }
-  
-  .consulta .boton {
-  width: 100%;
-  background: #78ff83;
-  background: -webkit-linear-gradient(to left, #78ffd7fe, #a8ff78);
-  background: linear-gradient(to left, #78ff93, #78fff6);
-  border: none;
-  padding: 12px;
-  color: black;
-  font-size: 18px;
-  cursor: pointer;
-  }
-
-/* Estilos de consultar mascota */
-.form-register12{
-  width: 400px;
-  background: #24303c;
-  padding: 30px;
-  margin: auto;
-  margin-top: 100px;
-  border-radius: 4px;
-  font-family: 'Open Sans', sans-serif;
-  color: aliceblue;
-  box-shadow: 7px 13px 37px #000;
-}
-
-.form-register12 h4 {
-  font-size: 24px;
-  margin-bottom: 20px;
-  letter-spacing: 1px;
-  color: #fff;
   text-align: center;
+  border-radius: 20px;
 }
 
-.controlis{
-  width: 100%;
-  background: #24303c;
-  padding: 10px;
-  border-radius: 6px;
-  margin-bottom: 10px;
-  border: 1px solid #a8ff78;
-  font-size: 15px;
-  color: aliceblue;
-
+#nuestros-beneficios .container{
+  padding: 100px 0px;
 }
 
-.form-register12 p{
-
-  height: 40px;
-  text-align: center;
-  font-size: 14px;
-  line-height: 40px;
-  color: aliceblue;
-
-}
-
-.form-register12 a{
-  color: #fff;
-  margin: auto;
-  font-size: 14px;
-  text-decoration: none;
-  border: none;
-
-}
-
-.form-register12 a:hover{
-  color: white;
-  text-decoration: underline;
-
-}
-
-.form-register12 .botons {
-  width: 100%;
-  background: linear-gradient(to left, #78ff9c, #a8ff78);
-  border: none;
-  padding: 12px;
-  color: #000;
-  margin: 16px 0;
-  font-size: 20px;
-  letter-spacing: 1px;
-  cursor: pointer;
-  border-radius: 6px;
+#nuestros-beneficios h2{
+  margin-top: 0;
+  font-size: 3.2em;
   font-weight: bold;
-
 }
-  
 
- 
+#nuestros-beneficios p{
+  display: none;
+}
+
+#nuestros-beneficios .carta{
+  background-size: cover;
+  background-position: center center;
+  padding: 50px 0px;
+  margin: 30px;
+  border-radius: 15px;
+  transition: all 0.5s ease;
+}
+
+#nuestros-beneficios .carta:hover{
+  transform: scale(0.98);
+}
+
+.carta:first-child{
+  background-image:linear-gradient(
+    0deg,
+    rgba(0,0,0,0.5),
+    rgba(0,0,0,0.5)
+  )
+  ,url("../imgs/perro-gorro.jpg");
+}
+
+.carta:nth-child(2){
+  background-image:linear-gradient(
+    0deg,
+    rgba(0,0,0,0.5),
+    rgba(0,0,0,0.5)
+  )
+  ,url("../imgs/Pitbull.jpg");
+}
+
+.carta:nth-child(3){
+  background-image:linear-gradient(
+    0deg,
+    rgba(0,0,0,0.5),
+    rgba(0,0,0,0.5)
+  )
+  ,url("../imgs/Imagen-Gato.jpg");
+}
+
+
+#caracteristicas .container{
+  text-align: center;
+  padding: 270px 12px;
+}
+
+#caracteristicas li{
+  margin: 16px 0px;
+  font-weight: bold;
+  font-size: 1.5em;
+  list-style: none;
+}
+
+
+footer{
+  background-color: rgba(43, 33, 33, 0.315);
+  border-radius: 15px;
+}
+footer .container{
+  text-align: left;
+}
+
+footer h2{
+  text-align: center;
+  color: rgb(66, 66, 66);
+}
+
+@media (min-width: 768px) {
+  #nuestros-beneficios .carta{
+    padding: 15px;
+  }
+  
+  #nuestros-beneficios .beneficios{
+    display: flex;
+    justify-content: center;
+  }
+  
+  #nuestros-beneficios p{
+    display: block;
+    margin-bottom: 30px;
+  }
+  
+  #nuestros-beneficios h3{
+    margin-top: 0;
+  }
+
+  #caracteristicas{
+    background-image: url(../imgs/mascota.png);
+    background-repeat: no-repeat;
+    background-size: 700px;
+    background-position-x: calc(100vw - 700px);
+    transition: 0.5s;
+  }
+
+  #caracteristicas:hover{
+    transform: scale(0.98);
+  }
+
+  #caracteristicas .container{
+    text-align: initial;
+  }
+
+  #caracteristicas li{
+    margin-left: 100px;
+  }
+}
+
+@media(min-width: 1200px){
+  #caracteristicas{
+    background-position-x: calc(100vw - 800px);
+  }
+}

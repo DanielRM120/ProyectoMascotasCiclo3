@@ -10,6 +10,16 @@ namespace MascotaFeliz.App.Dominio
     /// </summary>
     public class Rol
     {
+        public string Salt { get; set; }
+
         
+        public string Nombre { get; set; }
+
+       
+        public string Apellidos { get; set; }
+
+        
+        public string Tipo { get; set; }
     }
+    
 }

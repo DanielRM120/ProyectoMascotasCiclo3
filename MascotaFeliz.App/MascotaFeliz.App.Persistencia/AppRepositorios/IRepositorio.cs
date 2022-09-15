@@ -75,13 +75,20 @@ namespace MascotaFeliz.App.Persistencia
 
     }
 
-    public interface IRepositorioUsuario     //<No se tiene todavia atributos en la clase//>
+    public interface IRepositorioUsuario     
     {
-        IEnumerable<Usuario> GetAllUsuario();
-        Usuario AddUsuario(Usuario Usuario);
-        Usuario UpdateUsuario(Usuario Usuario);
-        void DeleteUsuario(int idUsuario);
-        Usuario GetUsuario(int idUsuario);
+
+        //METODOS PARA REALIZAR UN BUEN LOGING
+        int GetMaxId();
+        bool ExisteEmail(string email);
+        bool RegistrarUsuario(string email, string password, string nombre, string apellidos, string tipo);
+        Usuario LogInUsuario(string email, string password);
+        List<Usuario> GetUsuarios();
+        
+
+
+
+        
 
     }
 

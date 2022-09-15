@@ -133,6 +133,32 @@ namespace MascotaFeliz.App.Persistencia.Migrations
                     b.HasDiscriminator<string>("Discriminator").HasValue("Persona");
                 });
 
+            modelBuilder.Entity("MascotaFeliz.App.Dominio.Usuario", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .UseIdentityColumn();
+
+                    b.Property<string>("Discriminator")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Email")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<byte[]>("Password")
+                        .IsRequired()
+                        .HasColumnType("varbinary(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Usuarios");
+
+                    b.HasDiscriminator<string>("Discriminator").HasValue("Usuario");
+                });
+
             modelBuilder.Entity("MascotaFeliz.App.Dominio.Vacuna", b =>
                 {
                     b.Property<int>("Id")
@@ -225,6 +251,29 @@ namespace MascotaFeliz.App.Persistencia.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.HasDiscriminator().HasValue("Veterinario");
+                });
+
+            modelBuilder.Entity("MascotaFeliz.App.Dominio.Rol", b =>
+                {
+                    b.HasBaseType("MascotaFeliz.App.Dominio.Usuario");
+
+                    b.Property<string>("Apellidos")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Nombre")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Salt")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Tipo")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasDiscriminator().HasValue("Rol");
                 });
 
             modelBuilder.Entity("MascotaFeliz.App.Dominio.Agenda", b =>

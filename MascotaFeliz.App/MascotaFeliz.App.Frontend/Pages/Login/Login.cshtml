@@ -1,99 +1,41 @@
-﻿@page
+@page
 @model MascotaFeliz.App.Frontend.Pages.LoginModel
 @{
     
 }
+@if (ViewData["MENSAJE"] != null)
+{
+<div class="alert alert-warning alert-dismissible fade show" role="alert">
+    @ViewData["MENSAJE"]
+    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+        <span aria-hidden="true">&times;</span>
+    </button>
+</div>
+}
 
-<body>
-
-   <!-- Formularios -->
-    <div class="contenedor-formularios">
-        <!-- Links de los formularios -->
-        <ul class="contenedor-tabs">
-            <li class="tab tab-segunda active"><a href="#iniciar-sesion">Iniciar Sesión</a></li>
-            <li class="tab tab-primera"><a href="#registrarse">Registrarse</a></li>
+<div class="card signup_v4 mb-30">
+    <div class="card-body">
+        <ul class="nav nav-tabs" id="myTab" role="tablist">
+            <li class="nav-item" role="presentation"> <a class="nav-link active" id="login-tab" data-toggle="tab" href="#login" role="tab" aria-controls="login" aria-selected="true">Login</a> </li>
+            <li class="nav-item" role="presentation"> <a class="nav-link" id="register-tab" data-toggle="tab" href="Registro" role="tab" aria-controls="register" aria-selected="false">Registro</a> </li>
         </ul>
-
-        <!-- Contenido de los Formularios -->
-        <div class="contenido-tab">
-            <!-- Iniciar Sesion -->
-            <div id="iniciar-sesion">
-                <h1>Iniciar Sesión</h1>
-                <form action="#" method="post">
-                    <div class="contenedor-input">
-                        <label>
-                            Usuario <span class="req">*</span>
-                        </label>
-                        <input type="text" required>
+        <div class="tab-content" id="myTabContent">
+            <div class="tab-pane fade show active" id="login" role="tabpanel" aria-labelledby="login-tab">
+                <h4 class="text-center mt-4 mb-4" style="text-transform: uppercase;">Login</h4>
+                <form method="post">
+                    <div class="form-row">
+                        <div class="form-group col-md-12"> <label for="inputName">Email</label> <input type="email" name="email" class="form-control" id="inputEmail4" placeholder="Escribe tu direccion de correo" required=""> </div>
+                        <div class="form-group col-md-12"> <label for="inputName">Contraseña</label> <input type="password" name="password" class="form-control" id="inputPassword4" placeholder="Escribe tu contraseña" required=""> </div>
+                        <div class="form-group col-md-12">
+                            <div class="d-flex flex-wrap justify-content-between align-items-center">
+                                <a href="#" target="_blank">¿Contraseña olvidada?</a>
+                            </div>
+                        </div>
                     </div>
-
-                    <div class="contenedor-input">
-                        <label>
-                            Contraseña <span class="req">*</span>
-                        </label>
-                        <input type="password" required>
-                    </div>
-                    <p class="forgot"><a href="#">Se te olvidó la contraseña?</a></p>
-                    <input type="submit" class="button button-block" value="Iniciar Sesión">
+                    <div class="mt-2 mb-3"> <button class="btn btn-primary full-width" type="submit">Login</button> </div>
                 </form>
             </div>
 
-            <!-- Registrarse -->
-            <div id="registrarse">
-                <h1>Registrarse</h1>
-                <form action="#" method="post">
-                    <div class="fila-arriba">
-                        <div class="contenedor-input">
-                            <label>
-                                Nombre <span class="req">*</span>
-                            </label>
-                            <input type="text" required >
-                        </div>
-
-                        <div class="contenedor-input">
-                            <label>
-                                Apellido <span class="req">*</span>
-                            </label>
-                            <input type="text" required>
-                        </div>
-                    </div>
-                    <div class="contenedor-input">
-                        <label>
-                            Usuario <span class="req">*</span>
-                        </label>
-                        <input type="text" required>
-                    </div>
-                    <div class="contenedor-input">
-                            <label>
-                                Email <span class="req">*</span>
-                            </label>
-                        <input type="email" required>
-                    </div>
-                    <div class="contenedor-input">
-                        <label>
-                            Contraseña <span class="req">*</span>
-                        </label>
-                        <input type="password" required>
-                    </div>
-
-                    <div class="contenedor-input">
-                        <label>
-                            Repetir Contraseña <span class="req">*</span>
-                        </label>
-                        <input type="password" required>
-                    </div>
-
-                    <input type="submit" class="button button-block" value="Registrarse">
-                </form>
-            </div>
         </div>
     </div>
-
-   <script src="js/jquery.js"></script>
-   <script src="js/main.js"></script>
-
-</body>
-
-
-
-
+</div>

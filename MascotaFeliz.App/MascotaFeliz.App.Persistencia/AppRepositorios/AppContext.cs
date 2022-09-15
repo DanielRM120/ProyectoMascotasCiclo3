@@ -15,6 +15,9 @@ namespace MascotaFeliz.App.Persistencia
         public DbSet<Veterinario> Veterinarios {get; set;}
         public DbSet<VisitaDomiciliaria> VisitasDomiciliarias {get; set;}
 
+//se agrega la clase usuario y la clase rol
+        public DbSet<Usuario> Usuarios { get; set; }
+        public DbSet<Rol> Roles { get; set; }
 
         //Conexion al SQL
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)

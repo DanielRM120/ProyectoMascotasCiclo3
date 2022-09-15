@@ -10,7 +10,6 @@ a.navbar-brand[b-67m0enjp2w] {
 
 a[b-67m0enjp2w] {
   color: #0077cc;
-  transition: all 0.5s ease;
 }
 
 .btn-primary[b-67m0enjp2w] {
@@ -45,6 +44,5 @@ button.accept-policy[b-67m0enjp2w] {
   position:relative;
   bottom: 0;
   width: 100%;
-  white-space: nowrap;
   line-height: 60px;
 }

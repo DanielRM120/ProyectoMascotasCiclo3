@@ -8,8 +8,23 @@ html {
 }
 
 /*-----------------------------------------------------------*/
-header .container{
+
+header{
+  position: fixed;
+  width: 100%;
   background-image: linear-gradient(90deg, white, pink, rgb(150, 1, 150));
+  z-index: 1;
+}
+
+header .container{
+  padding-right: 100px;
+  padding-left: 100px;
+  background-color: rgba(208, 208, 224, 0.527);
+}
+
+header .navbar-brand{
+  font-size: 1.75em;
+  justify-content: center;
 }
 
 body{
@@ -23,11 +38,25 @@ h2{font-size: 2.7em;}
 h3{font-size: 2em;}
 p{font-size: 1.25em;}
 
-nav a:hover {
+nav a{
   transition: all 0.5s ease;
+  font-size: 1.25em;
+}
+
+ul{
+  justify-content: right;
+  transition: all 0.5s ease;
+}
+
+ul .navbar-nav{
+  transition: 0.5s;
+}
+
+nav a:hover {
   background: #9335d145;
   border-radius: 8px;
   transform: scale(0.95);
+  transition: all 0.5s ease;
 }
 
 button{
@@ -54,21 +83,13 @@ button:hover{
   margin: auto;
 }
 
-header{
-  background-color: azure;
-}
-
-header:hover{
-  color: blueviolet;
-}
-
 #hero{
   display: flex;
   align-items: center;
   justify-content: center;
   text-align: center;
   flex-direction: column;
-  height: 90vh;
+  height: 100vh;
   color: white;
   background-image:linear-gradient(
     0deg,
@@ -92,7 +113,7 @@ header:hover{
 
 #hero2 .container{
   text-align: center;
-  padding: 180px 12px;
+  padding: 150px 12px;
   display: flex;
   justify-content: center;
 }
@@ -139,7 +160,6 @@ header:hover{
   background-color: rgb(30, 30, 30);
   color: white;
   text-align: center;
-  border-radius: 20px;
 }
 
 #nuestros-beneficios .container{
@@ -212,7 +232,6 @@ header:hover{
 
 footer{
   background-color: rgba(43, 33, 33, 0.315);
-  border-radius: 15px;
 }
 footer .container{
   text-align: left;

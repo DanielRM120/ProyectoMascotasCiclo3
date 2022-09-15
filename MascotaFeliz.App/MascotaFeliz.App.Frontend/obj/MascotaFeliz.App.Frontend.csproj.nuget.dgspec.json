@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Prueba\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\MascotaFeliz.App.Frontend.csproj": {}
+    "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\MascotaFeliz.App.Frontend.csproj": {}
   },
   "projects": {
-    "D:\\Prueba\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\MascotaFeliz.App.Frontend.csproj": {
+    "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\MascotaFeliz.App.Frontend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Prueba\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\MascotaFeliz.App.Frontend.csproj",
+        "projectUniqueName": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\MascotaFeliz.App.Frontend.csproj",
         "projectName": "MascotaFeliz.App.Frontend",
-        "projectPath": "D:\\Prueba\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\MascotaFeliz.App.Frontend.csproj",
-        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "D:\\Prueba\\ProyectoMascotasCiclo3\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\obj\\",
+        "projectPath": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\MascotaFeliz.App.Frontend.csproj",
+        "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
+        "outputPath": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -43,7 +43,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -55,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

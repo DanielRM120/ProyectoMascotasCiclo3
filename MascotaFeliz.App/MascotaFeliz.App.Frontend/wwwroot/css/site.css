@@ -17,8 +17,9 @@ header{
 }
 
 header .container{
-  padding-right: 100px;
-  padding-left: 100px;
+  padding-right: 40px;
+  padding-left: 40px;
+  transition: 0.1s;
   background-color: rgba(208, 208, 224, 0.527);
 }
 
@@ -243,6 +244,12 @@ footer h2{
 }
 
 @media (min-width: 768px) {
+
+  header .container{
+    padding-right: 100px;
+    padding-left: 100px;
+    transition: all 0.1s ease;
+  }
   #nuestros-beneficios .carta{
     padding: 15px;
   }

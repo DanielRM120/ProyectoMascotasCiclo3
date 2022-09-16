@@ -11,6 +11,5 @@ namespace MascotaFeliz.App.Dominio
         public int Id { get; set; } 
         public Cliente Cliente { get; set; }
         public Mascota Mascota { get; set; }        
-
     }
 }

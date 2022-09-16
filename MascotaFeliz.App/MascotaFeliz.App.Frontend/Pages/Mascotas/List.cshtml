@@ -1,0 +1,17 @@
+﻿@page
+@model MascotaFeliz.App.Frontend.Pages.ListModel
+@{
+}
+
+<section id="hero">
+    <h2>Listado de Mascotas Top</h2>
+    <p>Hello Pets!</p>
+    <table class="tabla">
+        @foreach (var mascotas in Model.ListadeMascotas)
+        {
+            <tr>
+                <td>@mascotas</td>
+            </tr>
+        }
+    </table>
+</section>

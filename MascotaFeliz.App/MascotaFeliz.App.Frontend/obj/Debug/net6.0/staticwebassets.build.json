@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QlBh1n8bWIn++RFigcgtktv2BOIEI6YVo6QY5GJtzOE=",
+  "Hash": "wXQbP/qdRhdwvuLC+EA25TYyIqbZSy9FqGMc1dNc3T8=",
   "Source": "MascotaFeliz.App.Frontend",
   "BasePath": "_content/MascotaFeliz.App.Frontend",
   "Mode": "Default",
@@ -51,23 +51,6 @@
       "OriginalItemSpec": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MascotaFeliz.App.Frontend.bundle.scp.css"
     },
     {
-      "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\css\\master.css",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-      "BasePath": "_content/MascotaFeliz.App.Frontend",
-      "RelativePath": "css/master.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\master.css"
-    },
-    {
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\css\\site.css",
       "SourceId": "MascotaFeliz.App.Frontend",
       "SourceType": "Discovered",
@@ -83,23 +66,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
-    },
-    {
-      "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\css\\site1.css",
-      "SourceId": "MascotaFeliz.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\",
-      "BasePath": "_content/MascotaFeliz.App.Frontend",
-      "RelativePath": "css/site1.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\site1.css"
     },
     {
       "Identity": "D:\\Ciclo 3\\Proyecto\\Aplicacion\\ProyectoMascotasCiclo3-master\\MascotaFeliz.App\\MascotaFeliz.App.Frontend\\wwwroot\\favicon.ico",

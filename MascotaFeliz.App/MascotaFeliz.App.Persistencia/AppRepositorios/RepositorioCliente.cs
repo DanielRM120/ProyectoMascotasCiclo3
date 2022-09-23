@@ -9,7 +9,8 @@ namespace MascotaFeliz.App.Persistencia
     public class RepositorioCliente : IRepositorioCliente
 
     {
-       private readonly AppContext _appContext;
+        
+        private readonly AppContext _appContext;
 
 
         public RepositorioCliente(AppContext appContext)

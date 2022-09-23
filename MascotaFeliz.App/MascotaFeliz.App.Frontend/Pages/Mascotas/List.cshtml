@@ -7,10 +7,24 @@
     <h2>Listado de Mascotas Top</h2>
     <p>Hello Pets!</p>
     <table class="tabla">
-        @foreach (var mascotas in Model.ListadeMascotas)
+        @foreach (var mascotas in Model.ListaDeMascotas)
         {
             <tr>
-                <td>@mascotas</td>
+                <td>@mascotas.Id</td>
+                <td>@mascotas.Nombre</td>
+                <td>@mascotas.Especie</td>
+                <td>
+                    <a class="btn btn-primary table-btn" asp-page="./Details" asp-route-mascotaId="@mascotas.Id">
+                    <i class= "fas fa-info-circle"></i>
+                    Detalle de la Mascota
+                    </a>
+                </td>
+                <td>
+                    <a class="btn btn-primary table-btn" asp-page="./Edit" asp-route-mascotaId="@mascotas.Id">
+                    <i class= "fas fa-info-circle"  aria-hidden="true"></i>
+                    Edición
+                    </a>
+                </td>
             </tr>
         }
     </table>

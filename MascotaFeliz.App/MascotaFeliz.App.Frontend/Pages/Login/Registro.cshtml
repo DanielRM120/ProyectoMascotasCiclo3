@@ -3,55 +3,41 @@
 @{
 }
 
-<div class="tab-content" id="myTabContent">
-    <div class="tab-pane fade show active" id="login" role="tabpanel" aria-labelledby="login-tab">
-        <section id="hero">
-            <h4 class="text-center mt-4 mb-4" style="text-transform: uppercase;">Registro</h4>
-            <form method="post" asp-controller="Home" asp-action="Registro">
-                <div class="form-row">
-                    <div class="form-group col-md-12"> <label for="inputName">Email</label> <input type="email"
-                            name="email" class="form-control" id="inputEmail4"
-                            placeholder="Escribe tu dirección de correo *" required=""> </div>
-                    <div class="form-group col-md-12"> <label for="inputName">Contraseña</label> <input type="password"
-                            name="password" class="form-control" id="inputPassword4"
-                            placeholder="Escribe tu contraseña *" required=""> </div>
-                </div>
-                <div class="form-row">
-                    <div class="form-group col-md-12"> <label for="inputName">Nombre</label> <input type="text"
-                            name="nombre" class="form-control" id="inputEmail4" placeholder="Escribe tu nombre *">
-                    </div>
-                    <div class="form-group col-md-12"> <label for="inputName">Apellidos</label> <input type="text"
-                            name="apellidos" class="form-control" id="inputEmail4" placeholder="Escribe tus apellidos">
-                    </div>
-                </div>
-                <div class="form-group form-row mt-2">
-                    <label class="col-md-2 col-form-label user_group">Tipo de usuario</label>
-                    <div class="col-md-10 pt-1">
-                        <div class="form-check form-check-inline"> <input class="form-check-input" type="radio"
-                                name="tipo" id="inlineRadio1" value="USUARIO" required> <label class="form-check-label"
-                                for="inlineRadio1">USUARIO</label> </div>
-                        <div class="form-check form-check-inline"> <input class="form-check-input" type="radio"
-                                name="tipo" id="inlineRadio2" value="ADMIN" required> <label class="form-check-label"
-                                for="inlineRadio2">ADMIN</label> </div>
-                    </div>
-                </div>
-                <hr class="mt-3 mb-4">
-                <div class="col-12">
-                    <div class="d-flex flex-wrap justify-content-between align-items-center">
-                        <div class="custom-checkbox d-block">
-                            <a asp-controller="Manage" asp-action="LogIn" class="nav-link-inline font-size-sm">¿Ya
-                                tienes una cuenta? LogIn</a>
-                        </div>
-                        <hr class="mt-3 mb-4">
-                        <a class="btn btn-primary" href="Login" role="button">Login</a>
+<section id="hero">
 
-                        <hr class="mt-3 mb-4">
-                        <a class="btn btn-primary" href="Login" role="button">Registrado</a>
-
-                    </div>
-                </div>
-            </form>
-        </section>
+<h2>Registro</h2>
+<form method="post">
+    <input type="hidden" asp-for="Cliente.Id" />
+    <div class="form-group">
+        <label asp-for="Cliente.Nombres"></label>
+        <input asp-for="Cliente.Nombres" class="form-control">
+        <span class="text-danger" asp-validation-for="Cliente.Nombres"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Cliente.Apellidos"></label>
+        <input asp-for="Cliente.Apellidos" class="form-control">
+        <span class="text-danger" asp-validation-for="Cliente.Apellidos"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Cliente.NumeroTelefono"></label>
+        <input asp-for="Cliente.NumeroTelefono" class="form-control">
+        <span class="text-danger" asp-validation-for="Cliente.NumeroTelefono"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Cliente.Direccion"></label>
+        <input asp-for="Cliente.Direccion" class="form-control">
+        <span class="text-danger" asp-validation-for="Cliente.Direccion"></span>
     </div>
 
-</div>
+    <div class="form-group">
+        <label asp-for="Cliente.Correo"></label>
+        <input asp-for="Cliente.Correo" class="form-control">
+        <span class="text-danger" asp-validation-for="Cliente.Correo"></span>
+    </div>
+    <br>
+
+    <button type="submit" class="btn btn-primary">Registrar</button>
+
+</form>
+<a asp-page="../Index" class="btn-default">Regresar al Home </a>
+</section>

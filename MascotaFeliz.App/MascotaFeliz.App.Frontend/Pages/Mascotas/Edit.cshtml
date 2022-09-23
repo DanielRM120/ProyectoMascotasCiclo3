@@ -1,0 +1,36 @@
+﻿@page
+@model MascotaFeliz.App.Frontend.Pages.EditModel
+@{
+    int mascotasId = Model.Mascota.Id;
+}
+<section id="hero">
+
+<h2>Edición de los datos de la Mascota @Model.Mascota.Nombre</h2>
+<form method="post">
+    <input type="hidden" asp-for="Mascota.Id" />
+    <div class="form-group">
+        <label asp-for="Mascota.Nombre"></label>
+        <input asp-for="Mascota.Nombre" class="form-control">
+        <span class="text-danger" asp-validation-for="Mascota.Nombre"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Mascota.Color"></label>
+        <input asp-for="Mascota.Color" class="form-control">
+        <span class="text-danger" asp-validation-for="Mascota.Color"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Mascota.Raza"></label>
+        <input asp-for="Mascota.Raza" class="form-control">
+        <span class="text-danger" asp-validation-for="Mascota.Raza"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Mascota.Especie"></label>
+        <input asp-for="Mascota.Especie" class="form-control">
+        <span class="text-danger" asp-validation-for="Mascota.Especie"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Actualizar</button>
+
+</form>
+<a asp-page="./List" class="btn-default">Regresar a la lista de mascotas </a>
+</section>

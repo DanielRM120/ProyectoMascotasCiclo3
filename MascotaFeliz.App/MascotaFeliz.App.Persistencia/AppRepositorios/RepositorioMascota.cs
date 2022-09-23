@@ -41,19 +41,19 @@ namespace MascotaFeliz.App.Persistencia
             return _appContext.Mascotas;
         }
 
-        public Mascota UpdateMascota(Mascota Mascota)
+        public Mascota UpdateMascota(Mascota mascota)
         {
-            var MascotaEncontrado = _appContext.Mascotas.FirstOrDefault(p => p.Id == Mascota.Id);
-            if (MascotaEncontrado != null)
+            var mascotaEncontrado = _appContext.Mascotas.FirstOrDefault(p => p.Id == mascota.Id);
+            if (mascotaEncontrado != null)
             {
-                MascotaEncontrado.Nombre = Mascota.Nombre;
-                MascotaEncontrado.Color = Mascota.Color;
-                MascotaEncontrado.Especie = Mascota.Especie;
-                MascotaEncontrado.Raza = Mascota.Raza;
+                mascotaEncontrado.Nombre = mascota.Nombre;
+                mascotaEncontrado.Color = mascota.Color;
+                mascotaEncontrado.Especie = mascota.Especie;
+                mascotaEncontrado.Raza = mascota.Raza;
 
                 _appContext.SaveChanges();
             }
-            return MascotaEncontrado;
+            return mascotaEncontrado;
         }
 
 

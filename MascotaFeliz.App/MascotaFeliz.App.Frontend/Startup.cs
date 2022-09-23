@@ -1,3 +1,4 @@
+using System.Runtime.Serialization;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,7 +11,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using MascotaFeliz.App.Persistencia;
 
-namespace MascotaFeliz.App.FrontEnd
+namespace MascotaFeliz.App.Frontend
 {
     public class Startup
     {
@@ -27,8 +28,6 @@ namespace MascotaFeliz.App.FrontEnd
             services.AddControllersWithViews();
             services.AddRazorPages();
             services.AddDbContext<MascotaFeliz.App.Persistencia.AppContext>();
-            
-            
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
